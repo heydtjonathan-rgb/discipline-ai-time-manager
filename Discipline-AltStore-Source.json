@@ -1,7 +1,7 @@
 {
   "name": "Discipline",
   "subtitle": "Aufgaben und Routinen",
-  "description": "Discipline für AltStore Classic. Lade die IPA und das App-Symbol auf eine öffentlich erreichbare HTTPS-Adresse hoch und ersetze die Beispiel-Domain in den URLs.",
+  "description": "Discipline für AltStore Classic. Aufgaben, Routinen und Fokus mit Guided Access, KI-Fotoprüfung sowie Deutsch und Englisch.",
   "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
   "tintColor": "#2EEEC7",
   "apps": [
@@ -16,12 +16,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.1",
-          "buildVersion": "1",
+          "version": "1.0.1",
+          "buildVersion": "2",
           "date": "2026-11-10",
-          "localizedDescription": "Deutsch und Englisch, Open Mode bei nicht aktivem Guided Access, wiederkehrende Aufgaben und rotierende OpenRouter-API-Keys.",
-          "downloadURL": "https://github.com/heydtjonathan-rgb/discipline-ai-time-manager/raw/refs/heads/main/Discipline-AltStore.ipa",
-          "size": 11815326,
+          "localizedDescription": "Neu: Guided-Access-Status wird fortlaufend geprüft und der Modus automatisch angepasst. Außerdem Deutsch und Englisch, wiederkehrende Aufgaben und rotierende OpenRouter-API-Keys.",
+          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa",
+          "size": 11741187,
           "minOSVersion": "17.0"
         }
       ],
