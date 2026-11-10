@@ -19,7 +19,7 @@
           "version": "1.0.1",
           "buildVersion": "2",
           "date": "2026-11-10",
-          "localizedDescription": "Neu: Guided-Access-Status wird fortlaufend geprüft und der Modus automatisch angepasst. Außerdem Deutsch und Englisch, wiederkehrende Aufgaben und rotierende OpenRouter-API-Keys.",
+          "localizedDescription": "Neu: Guided-Access-Status wird fortlaufend geprüft und der Modus automatisch angepasst. Außerdem Deutsch und Englisch, wiederkehrende Aufgaben und rotierende OpenRouter-API-Keys.                                                                           New: Guided Access status is continuously monitored, and the mode is adjusted automatically. Also includes German and English language support, recurring tasks, and rotating OpenRouter API keys.  ",
           "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.1-build2",
           "size": 11741187,
           "minOSVersion": "17.0"
