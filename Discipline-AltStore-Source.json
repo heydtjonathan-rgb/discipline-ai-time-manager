@@ -2,7 +2,7 @@
   "name": "Discipline",
   "subtitle": "Aufgaben und Routinen",
   "description": "Discipline für AltStore Classic. Lade die IPA und das App-Symbol auf eine öffentlich erreichbare HTTPS-Adresse hoch und ersetze die Beispiel-Domain in den URLs.",
-  "iconURL": "https://github.com/heydtjonathan-rgb/discipline-ai-time-manager/blob/242bf5b3d45bc1c4ef78d0f0d22888e22ad87f9a/Discipline-AltStore-Icon.png",
+  "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
   "tintColor": "#2EEEC7",
   "apps": [
     {
@@ -11,7 +11,7 @@
       "developerName": "Joni",
       "subtitle": "Aufgaben, Routinen und Fokus",
       "localizedDescription": "Verwalte Aufgaben und Wiederholungen, nutze den Aufgabenmodus mit Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.",
-      "iconURL": "https://github.com/heydtjonathan-rgb/discipline-ai-time-manager/blob/242bf5b3d45bc1c4ef78d0f0d22888e22ad87f9a/Discipline-AltStore-Icon.png",
+      "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
       "tintColor": "#2EEEC7",
       "category": "utilities",
       "versions": [
