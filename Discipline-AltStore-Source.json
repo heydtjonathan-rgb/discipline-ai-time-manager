@@ -20,7 +20,7 @@
           "buildVersion": "1",
           "date": "2026-11-10",
           "localizedDescription": "Deutsch und Englisch, Open Mode bei nicht aktivem Guided Access, wiederkehrende Aufgaben und rotierende OpenRouter-API-Keys.",
-          "downloadURL": "https://YOUR-DOMAIN/Discipline-AltStore.ipa",
+          "downloadURL": "https://github.com/heydtjonathan-rgb/discipline-ai-time-manager/raw/refs/heads/main/Discipline-AltStore.ipa",
           "size": 11815326,
           "minOSVersion": "17.0"
         }
