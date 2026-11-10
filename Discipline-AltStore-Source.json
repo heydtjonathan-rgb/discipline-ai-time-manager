@@ -1,0 +1,37 @@
+{
+  "name": "Discipline",
+  "subtitle": "Aufgaben und Routinen",
+  "description": "Discipline für AltStore Classic. Lade die IPA und das App-Symbol auf eine öffentlich erreichbare HTTPS-Adresse hoch und ersetze die Beispiel-Domain in den URLs.",
+  "iconURL": "https://YOUR-DOMAIN/Discipline-AltStore-Icon.png",
+  "tintColor": "#2EEEC7",
+  "apps": [
+    {
+      "name": "Discipline",
+      "bundleIdentifier": "de.discipline.app",
+      "developerName": "Joni",
+      "subtitle": "Aufgaben, Routinen und Fokus",
+      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, nutze den Aufgabenmodus mit Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.",
+      "iconURL": "https://YOUR-DOMAIN/Discipline-AltStore-Icon.png",
+      "tintColor": "#2EEEC7",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-10",
+          "localizedDescription": "Deutsch und Englisch, Open Mode bei nicht aktivem Guided Access, wiederkehrende Aufgaben und rotierende OpenRouter-API-Keys.",
+          "downloadURL": "https://YOUR-DOMAIN/Discipline-AltStore.ipa",
+          "size": 11815326,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Die Kamera nimmt das Abschlussfoto für die KI-Prüfung der Aufgabe auf."
+        }
+      }
+    }
+  ],
+  "news": []
+}
