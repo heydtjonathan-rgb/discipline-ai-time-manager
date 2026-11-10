@@ -1,27 +1,27 @@
 {
   "name": "Discipline",
   "subtitle": "Aufgaben und Routinen",
-  "description": "Discipline für AltStore Classic. Aufgaben, Routinen und Fokus mit Guided Access, KI-Fotoprüfung sowie Deutsch und Englisch.",
+  "description": "Discipline für AltStore Classic. Aufgaben, Routinen und Fokus mit täglicher Streak, Guided Access, KI-Fotoprüfung sowie Deutsch und Englisch.",
   "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
   "tintColor": "#2EEEC7",
   "apps": [
     {
       "name": "Discipline",
       "bundleIdentifier": "de.discipline.app",
-      "developerName": "Jonathan Heydt",
+      "developerName": "Joni",
       "subtitle": "Aufgaben, Routinen und Fokus",
-      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, nutze den Aufgabenmodus mit Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.                                                   Manage tasks and repetitions, use task mode with Guided Access, verify tasks via AI-powered photo analysis, and customize the language, color scheme, and app icon. The app is available in German and English.",
+      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, baue eine tägliche Streak ohne Freeze auf, nutze Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.",
       "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
       "tintColor": "#2EEEC7",
       "category": "utilities",
       "versions": [
         {
-          "version": "1.0.1",
-          "buildVersion": "2",
+          "version": "1.0.2",
+          "buildVersion": "3",
           "date": "2026-11-10",
-          "localizedDescription": "Neu: Guided-Access-Status wird fortlaufend geprüft und der Modus automatisch angepasst. Außerdem Deutsch und Englisch, wiederkehrende Aufgaben und rotierende OpenRouter-API-Keys.                                                                           New: Guided Access status is continuously monitored, and the mode is adjusted automatically. Also includes German and English language support, recurring tasks, and rotating OpenRouter API keys.  ",
-          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.1-build2",
-          "size": 11741187,
+          "localizedDescription": "Neu: Streak für alle heute fälligen Aufgaben. Die Streak steigt bei vollständigem Tagesabschluss und wird nach einem ausgelassenen Tag ohne Freeze zurückgesetzt.",
+          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.2-build3",
+          "size": 11745514,
           "minOSVersion": "17.0"
         }
       ],
@@ -33,5 +33,14 @@
       }
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Discipline 1.0.2: Aufgaben-Streak",
+      "identifier": "discipline-1-0-2-streak",
+      "caption": "Schließe alle heute fälligen Aufgaben ab und baue deine tägliche Streak auf.",
+      "date": "2026-11-10",
+      "tintColor": "#2EEEC7",
+      "appID": "de.discipline.app"
+    }
+  ]
 }
