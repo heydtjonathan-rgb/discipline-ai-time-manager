@@ -10,7 +10,7 @@
       "bundleIdentifier": "de.discipline.app",
       "developerName": "Jonathan Heydt",
       "subtitle": "Aufgaben, Routinen und Fokus",
-      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, nutze den Aufgabenmodus mit Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.",
+      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, nutze den Aufgabenmodus mit Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.Manage tasks and repetitions, use task mode with Guided Access, verify tasks via AI-powered photo analysis, and customize the language, color scheme, and app icon. The app is available in German and English.",
       "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
       "tintColor": "#2EEEC7",
       "category": "utilities",
