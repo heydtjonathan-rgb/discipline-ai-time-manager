@@ -8,7 +8,7 @@
     {
       "name": "Discipline",
       "bundleIdentifier": "de.discipline.app",
-      "developerName": "Joni",
+      "developerName": "Jonathan Heydt",
       "subtitle": "Aufgaben, Routinen und Fokus",
       "localizedDescription": "Verwalte Aufgaben und Wiederholungen, nutze den Aufgabenmodus mit Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.",
       "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
