@@ -1,19 +1,22 @@
 {
-  "name": "Jonathan Heydt",
-  "subtitle": "Einfach irgendwas worauf ich lust habe -viele meiner apps sind ai generated",
+  "name": "Discipline Team",
+  "subtitle": "Aufgaben und Routinen",
   "description": "Discipline für AltStore Classic. Aufgaben, Routinen und Fokus mit täglicher Streak, Guided Access, KI-Fotoprüfung sowie Deutsch und Englisch.",
   "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
   "tintColor": "#2EEEC7",
-    "apps": [
+  "apps": [
     {
       "name": "Discipline",
       "bundleIdentifier": "de.discipline.app",
-      "developerName": "Joni",
+      "developerName": "Discipline Team",
       "subtitle": "Aufgaben, Routinen und Fokus",
-      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, die sich zuverlässig nach Kalendertagen zurücksetzen, baue eine tägliche Streak ohne Freeze auf, nutze Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.",
+      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, die sich zuverlässig nach Kalendertagen zurücksetzen, baue eine tägliche Streak ohne Freeze auf, nutze Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.-Picture and App is AI generated-",
       "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
       "tintColor": "#2EEEC7",
       "category": "utilities",
+      "screenshots": [
+        "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png"
+      ],
       "versions": [
         {
           "version": "1.0.3",
@@ -40,6 +43,8 @@
       "caption": "Wiederholungsaufgaben werden anhand von Kalendertagen zuverlässig wieder freigegeben.",
       "date": "2026-11-12",
       "tintColor": "#2EEEC7",
+      "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
+      "url": null,
       "appID": "de.discipline.app"
     }
   ]
