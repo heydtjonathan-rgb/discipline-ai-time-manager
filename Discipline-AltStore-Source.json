@@ -1,7 +1,7 @@
 {
   "name": "Discipline Team",
-  "subtitle": "Aufgaben und Routinen",
-  "description": "Discipline für AltStore Classic. Aufgaben, Routinen und Fokus mit täglicher Streak, Guided Access, KI-Fotoprüfung sowie Deutsch und Englisch.",
+  "subtitle": "Tasks and routines",
+  "description": "Discipline for AltStore Classic. Tasks, routines, focus, daily streaks, Guided Access, AI photo verification, and support for English and German.",
   "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
   "tintColor": "#2EEEC7",
   "apps": [
@@ -9,8 +9,8 @@
       "name": "Discipline",
       "bundleIdentifier": "de.discipline.app",
       "developerName": "Discipline Team",
-      "subtitle": "Aufgaben, Routinen und Fokus",
-      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, die sich zuverlässig nach Kalendertagen zurücksetzen, baue eine tägliche Streak ohne Freeze auf, nutze Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.-Picture and App is AI generated-",
+      "subtitle": "Tasks, routines, and focus",
+      "localizedDescription": "Manage tasks and recurring routines that reset reliably by calendar day, build a daily streak without freezes, use Guided Access, verify tasks with AI photos, and customize the language, color scheme, and app icon. Available in English and German. AI-generated app and pictures.",
       "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
       "tintColor": "#2EEEC7",
       "category": "utilities",
@@ -22,7 +22,7 @@
           "version": "1.0.3",
           "buildVersion": "4",
           "date": "2026-11-12",
-          "localizedDescription": "Wiederholungsaufgaben setzen sich jetzt zuverlässig anhand von Kalendertagen zurück. Das letzte Öffnungsdatum wird gespeichert und fehlende Abschlusszeitstempel werden abgefangen.",
+          "localizedDescription": "Recurring tasks now reliably reset based on calendar days. The app saves the last-opened date and handles missing completion timestamps.",
           "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.3-build4",
           "size": 11841014,
           "minOSVersion": "17.0"
@@ -31,19 +31,19 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSCameraUsageDescription": "Die Kamera nimmt das Abschlussfoto für die KI-Prüfung der Aufgabe auf."
+          "NSCameraUsageDescription": "The camera takes a completion photo for AI verification of the task."
         }
       }
     }
   ],
   "news": [
     {
-      "title": "Discipline 1.0.3: Zuverlässige Wiederholungen",
+      "title": "Discipline 1.0.3: Reliable Recurring Tasks",
       "identifier": "discipline-1-0-3-recurring-tasks",
-      "caption": "Wiederholungsaufgaben werden anhand von Kalendertagen zuverlässig wieder freigegeben.",
+      "caption": "Recurring tasks are reliably made available again based on calendar days.",
       "date": "2026-11-12",
       "tintColor": "#2EEEC7",
-      "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
+      "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/82943E54-BE89-4A17-A73F-84719924217B.png",
       "url": null,
       "appID": "de.discipline.app"
     }
