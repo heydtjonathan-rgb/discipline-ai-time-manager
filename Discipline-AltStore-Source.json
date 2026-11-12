@@ -4,24 +4,24 @@
   "description": "Discipline für AltStore Classic. Aufgaben, Routinen und Fokus mit täglicher Streak, Guided Access, KI-Fotoprüfung sowie Deutsch und Englisch.",
   "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
   "tintColor": "#2EEEC7",
-  "apps": [
+    "apps": [
     {
       "name": "Discipline",
       "bundleIdentifier": "de.discipline.app",
-      "developerName": "Jonathan Heydt",
+      "developerName": "Joni",
       "subtitle": "Aufgaben, Routinen und Fokus",
-      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, baue eine tägliche Streak ohne Freeze auf, nutze Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.",
+      "localizedDescription": "Verwalte Aufgaben und Wiederholungen, die sich zuverlässig nach Kalendertagen zurücksetzen, baue eine tägliche Streak ohne Freeze auf, nutze Guided Access, prüfe Aufgaben per KI-Foto und passe Sprache, Farbschema und App-Symbol an. Die App ist auf Deutsch und Englisch verfügbar.",
       "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
       "tintColor": "#2EEEC7",
       "category": "utilities",
       "versions": [
         {
-          "version": "1.0.2",
-          "buildVersion": "3",
-          "date": "2026-11-10",
-          "localizedDescription": "Neu: Streak für alle heute fälligen Aufgaben. Die Streak steigt bei vollständigem Tagesabschluss und wird nach einem ausgelassenen Tag ohne Freeze zurückgesetzt.",
-          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.2-build3",
-          "size": 11745514,
+          "version": "1.0.3",
+          "buildVersion": "4",
+          "date": "2026-11-12",
+          "localizedDescription": "Wiederholungsaufgaben setzen sich jetzt zuverlässig anhand von Kalendertagen zurück. Das letzte Öffnungsdatum wird gespeichert und fehlende Abschlusszeitstempel werden abgefangen.",
+          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.3-build4",
+          "size": 11841014,
           "minOSVersion": "17.0"
         }
       ],
@@ -35,10 +35,10 @@
   ],
   "news": [
     {
-      "title": "Discipline 1.0.2: Aufgaben-Streak",
-      "identifier": "discipline-1-0-2-streak",
-      "caption": "Schließe alle heute fälligen Aufgaben ab und baue deine tägliche Streak auf.",
-      "date": "2026-11-10",
+      "title": "Discipline 1.0.3: Zuverlässige Wiederholungen",
+      "identifier": "discipline-1-0-3-recurring-tasks",
+      "caption": "Wiederholungsaufgaben werden anhand von Kalendertagen zuverlässig wieder freigegeben.",
+      "date": "2026-11-12",
       "tintColor": "#2EEEC7",
       "appID": "de.discipline.app"
     }
