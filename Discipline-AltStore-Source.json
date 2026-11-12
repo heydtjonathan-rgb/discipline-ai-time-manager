@@ -16,11 +16,11 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.0.3",
-          "buildVersion": "4",
+          "version": "1.0.4",
+          "buildVersion": "5",
           "date": "2026-11-12",
           "localizedDescription": "Wiederholungsaufgaben setzen sich jetzt zuverlässig anhand von Kalendertagen zurück. Das letzte Öffnungsdatum wird gespeichert und fehlende Abschlusszeitstempel werden abgefangen.",
-          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.3-build4",
+          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.4-build5",
           "size": 11841014,
           "minOSVersion": "17.0"
         }
