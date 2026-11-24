@@ -19,12 +19,12 @@
       ],
       "versions": [
         {
-          "version": "1.0.3",
-          "buildVersion": "4",
-          "date": "2026-11-12",
-          "localizedDescription": "Recurring tasks now reliably reset based on calendar days. The app saves the last-opened date and handles missing completion timestamps.",
-          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.3-build4",
-          "size": 11841014,
+          "version": "1.0.4",
+          "buildVersion": "5",
+          "date": "2026-11-24",
+          "localizedDescription": "Adds an opt-in autonomous single-app mode powered by iOS Guided Access. When enabled, starting a task requests strict lock mode and completion releases it after photo verification.",
+          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.4-build5",
+          "size": 11760771,
           "minOSVersion": "17.0"
         }
       ],
@@ -38,12 +38,12 @@
   ],
   "news": [
     {
-      "title": "Discipline 1.0.3: Reliable Recurring Tasks",
-      "identifier": "discipline-1-0-3-recurring-tasks",
-      "caption": "Recurring tasks are reliably made available again based on calendar days.",
-      "date": "2026-11-12",
+      "title": "Discipline 1.0.4: Autonomous Single-App Mode",
+      "identifier": "discipline-1-0-4-autonomous-single-app",
+      "caption": "A new opt-in strict mode requests iOS Guided Access when you start a task.",
+      "date": "2026-11-24",
       "tintColor": "#2EEEC7",
-      "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/39D89ACF-3DE8-43FA-82FC-4152586EF431.png",
+      "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/82943E54-BE89-4A17-A73F-84719924217B.png",
       "url": null,
       "appID": "de.discipline.app"
     }
