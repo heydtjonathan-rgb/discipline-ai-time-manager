@@ -1,7 +1,7 @@
 {
   "name": "Discipline Team",
   "subtitle": "Tasks and routines",
-  "description": "Discipline for AltStore Classic. Tasks, routines, daily streaks, an opt-in iOS Guided Access single-app mode, AI photo verification, and support for English and German.",
+  "description": "Discipline for AltStore Classic. Tasks, routines, daily streaks, AI photo verification, and opt-in nearby device pairing for iOS Guided Access single-app mode.",
   "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
   "tintColor": "#2EEEC7",
   "nsfw": false,
@@ -25,12 +25,12 @@
       ],
       "versions": [
         {
-          "version": "1.0.8",
-          "buildVersion": "9",
+          "version": "1.0.9",
+          "buildVersion": "10",
           "date": "2026-11-24",
-          "localizedDescription": "Adds a wheel-style time picker for task reminders, ensuring scheduled times use a valid format. Daily local notifications are sent for unfinished tasks at the selected time. Notification permission is requested by iOS.",
-          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.8-build9",
-          "size": 11787928,
+          "localizedDescription": "Pair nearby devices locally: device 1 can activate or end Guided Access strict mode on device 2. Device 2 requires Guided Access enabled in iOS Settings and can unlock with the Discipline PIN after the connection is lost. Both devices must have the app open and accept pairing.",
+          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.9-build10",
+          "size": 11833654,
           "minOSVersion": "17.0"
         }
       ],
@@ -39,16 +39,17 @@
           "get-task-allow"
         ],
         "privacy": {
-          "NSCameraUsageDescription": "Die Kamera nimmt das Abschlussfoto für die KI-Prüfung der Aufgabe auf."
+          "NSCameraUsageDescription": "Die Kamera nimmt das Abschlussfoto für die KI-Prüfung der Aufgabe auf.",
+          "NSLocalNetworkUsageDescription": "Discipline verbindet Gerät 1 und Gerät 2 über das lokale Netzwerk, um den Strict Mode auf Gerät 2 zu steuern."
         }
       }
     }
   ],
   "news": [
     {
-      "title": "Discipline 1.0.8: Reliable Reminder Times",
-      "identifier": "discipline-1-0-8-reliable-reminder-times",
-      "caption": "Set task reminder times with the iOS wheel picker to ensure a valid time format.",
+      "title": "Discipline 1.0.9: Nearby Device Pairing",
+      "identifier": "discipline-1-0-9-nearby-device-pairing",
+      "caption": "Pair nearby devices and let the host control Guided Access strict mode on device 2.",
       "date": "2026-11-24",
       "tintColor": "#2EEEC7",
       "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/82943E54-BE89-4A17-A73F-84719924217B.png",
