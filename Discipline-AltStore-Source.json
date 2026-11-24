@@ -25,12 +25,12 @@
       ],
       "versions": [
         {
-          "version": "1.0.6",
-          "buildVersion": "7",
+          "version": "1.0.7",
+          "buildVersion": "8",
           "date": "2026-11-24",
-          "localizedDescription": "Tasks can now be edited from task management, and the six-digit security PIN can be changed after verifying the current PIN. Includes PIN-based task completion and optional iOS Guided Access single-app mode.",
-          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.6-build7",
-          "size": 11773620,
+          "localizedDescription": "Adds daily local notifications at each unfinished task's scheduled time. Reminders update when tasks are edited and stop when a task is completed. Notification permission is requested by iOS.",
+          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.7-build8",
+          "size": 11784779,
           "minOSVersion": "17.0"
         }
       ],
@@ -39,16 +39,16 @@
           "get-task-allow"
         ],
         "privacy": {
-          "NSCameraUsageDescription": "Die Kamera nimmt das Abschlussfoto für die KI-Prüfung der Aufgabe auf."
+          "NSCameraUsageDescription": "The app uses the camera to verify task completion with AI."
         }
       }
     }
   ],
   "news": [
     {
-      "title": "Discipline 1.0.6: Edit Tasks and Change PIN",
-      "identifier": "discipline-1-0-6-edit-tasks-change-pin",
-      "caption": "Edit existing tasks and change your six-digit security PIN from task management.",
+      "title": "Discipline 1.0.7: Scheduled Task Notifications",
+      "identifier": "discipline-1-0-7-scheduled-task-notifications",
+      "caption": "Get daily reminders at each unfinished task's scheduled time.",
       "date": "2026-11-24",
       "tintColor": "#2EEEC7",
       "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/82943E54-BE89-4A17-A73F-84719924217B.png",
