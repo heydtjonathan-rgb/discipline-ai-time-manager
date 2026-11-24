@@ -4,6 +4,10 @@
   "description": "Discipline for AltStore Classic. Tasks, routines, daily streaks, an opt-in iOS Guided Access single-app mode, AI photo verification, and support for English and German.",
   "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
   "tintColor": "#2EEEC7",
+  "nsfw": false,
+  "featuredApps": [
+    "de.discipline.app"
+  ],
   "apps": [
     {
       "name": "Discipline",
@@ -15,7 +19,9 @@
       "tintColor": "#2EEEC7",
       "category": "utilities",
       "screenshots": [
-        "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/82943E54-BE89-4A17-A73F-84719924217B.png"
+        {
+          "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/82943E54-BE89-4A17-A73F-84719924217B.png"
+        }
       ],
       "versions": [
         {
@@ -29,9 +35,11 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "get-task-allow"
+        ],
         "privacy": {
-          "NSCameraUsageDescription": "The camera takes a completion photo for AI verification of the task."
+          "NSCameraUsageDescription": "Die Kamera nimmt das Abschlussfoto für die KI-Prüfung der Aufgabe auf."
         }
       }
     }
@@ -44,7 +52,6 @@
       "date": "2026-11-24",
       "tintColor": "#2EEEC7",
       "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/82943E54-BE89-4A17-A73F-84719924217B.png",
-      "url": null,
       "appID": "de.discipline.app"
     }
   ]
