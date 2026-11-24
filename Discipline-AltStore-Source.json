@@ -25,12 +25,12 @@
       ],
       "versions": [
         {
-          "version": "1.0.7",
-          "buildVersion": "8",
+          "version": "1.0.8",
+          "buildVersion": "9",
           "date": "2026-11-24",
-          "localizedDescription": "Adds daily local notifications at each unfinished task's scheduled time. Reminders update when tasks are edited and stop when a task is completed. Notification permission is requested by iOS.",
-          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.7-build8",
-          "size": 11784779,
+          "localizedDescription": "Adds a wheel-style time picker for task reminders, ensuring scheduled times use a valid format. Daily local notifications are sent for unfinished tasks at the selected time. Notification permission is requested by iOS.",
+          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.8-build9",
+          "size": 11787928,
           "minOSVersion": "17.0"
         }
       ],
@@ -39,16 +39,16 @@
           "get-task-allow"
         ],
         "privacy": {
-          "NSCameraUsageDescription": "The app uses the camera to verify task completion with AI."
+          "NSCameraUsageDescription": "Die Kamera nimmt das Abschlussfoto für die KI-Prüfung der Aufgabe auf."
         }
       }
     }
   ],
   "news": [
     {
-      "title": "Discipline 1.0.7: Scheduled Task Notifications",
-      "identifier": "discipline-1-0-7-scheduled-task-notifications",
-      "caption": "Get daily reminders at each unfinished task's scheduled time.",
+      "title": "Discipline 1.0.8: Reliable Reminder Times",
+      "identifier": "discipline-1-0-8-reliable-reminder-times",
+      "caption": "Set task reminder times with the iOS wheel picker to ensure a valid time format.",
       "date": "2026-11-24",
       "tintColor": "#2EEEC7",
       "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/82943E54-BE89-4A17-A73F-84719924217B.png",
