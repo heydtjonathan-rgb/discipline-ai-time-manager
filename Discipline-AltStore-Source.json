@@ -1,7 +1,7 @@
 {
   "name": "Discipline Team",
   "subtitle": "Tasks and routines",
-  "description": "Discipline for AltStore Classic. Tasks, routines, focus, daily streaks, Guided Access, AI photo verification, and support for English and German.",
+  "description": "Discipline for AltStore Classic. Tasks, routines, daily streaks, an opt-in iOS Guided Access single-app mode, AI photo verification, and support for English and German.",
   "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
   "tintColor": "#2EEEC7",
   "apps": [
@@ -10,7 +10,7 @@
       "bundleIdentifier": "de.discipline.app",
       "developerName": "Discipline Team",
       "subtitle": "Tasks, routines, and focus",
-      "localizedDescription": "Manage tasks and recurring routines that reset reliably by calendar day, build a daily streak without freezes, use Guided Access, verify tasks with AI photos, and customize the language, color scheme, and app icon. Available in English and German. AI-generated app and pictures.",
+      "localizedDescription": "Manage tasks and recurring routines that reset reliably by calendar day, build a daily streak without freezes, opt into iOS Guided Access to lock the app while a task is active, verify tasks with AI photos, and customize the language, color scheme, and app icon. Guided Access must be enabled in iOS Settings first. Available in English and German.",
       "iconURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore-Icon.png",
       "tintColor": "#2EEEC7",
       "category": "utilities",
@@ -19,12 +19,12 @@
       ],
       "versions": [
         {
-          "version": "1.0.4",
-          "buildVersion": "5",
+          "version": "1.0.5",
+          "buildVersion": "6",
           "date": "2026-11-24",
-          "localizedDescription": "Adds an opt-in autonomous single-app mode powered by iOS Guided Access. When enabled, starting a task requests strict lock mode and completion releases it after photo verification.",
-          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.4-build5",
-          "size": 11760771,
+          "localizedDescription": "Adds PIN-based task completion: complete an active task with the same six-digit PIN used for task management and API-key configuration. The PIN action ends Guided Access and completes the task. Autonomous single-app mode still requires iOS Guided Access to be enabled first.",
+          "downloadURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/Discipline-AltStore.ipa?v=1.0.5-build6",
+          "size": 11764044,
           "minOSVersion": "17.0"
         }
       ],
@@ -38,9 +38,9 @@
   ],
   "news": [
     {
-      "title": "Discipline 1.0.4: Autonomous Single-App Mode",
-      "identifier": "discipline-1-0-4-autonomous-single-app",
-      "caption": "A new opt-in strict mode requests iOS Guided Access when you start a task.",
+      "title": "Discipline 1.0.5: PIN Task Completion",
+      "identifier": "discipline-1-0-5-pin-task-completion",
+      "caption": "Tasks can now be completed directly with the six-digit management PIN.",
       "date": "2026-11-24",
       "tintColor": "#2EEEC7",
       "imageURL": "https://raw.githubusercontent.com/heydtjonathan-rgb/discipline-ai-time-manager/refs/heads/main/82943E54-BE89-4A17-A73F-84719924217B.png",
